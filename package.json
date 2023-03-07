@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^4.0.1",
+    "nodemon": "^2.0.21",
+    "uuid": "^9.0.0",
+    "yargs": "^17.7.1"
+  }
+}
